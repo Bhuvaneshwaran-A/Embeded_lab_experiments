@@ -1,5 +1,5 @@
-## Name: Nandavelan SPS
-## Reg No: 212223060182
+## Name: BHUVANESWARAN A
+## Reg No: 212223060031
 ## Slot : 4X4-5
 
 # EXP-3-B-Automatic-street-light-systems-using-LDR-sensor
