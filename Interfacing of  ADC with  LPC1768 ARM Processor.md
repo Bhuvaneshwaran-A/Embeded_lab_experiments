@@ -11,6 +11,7 @@ LCD module
 ## Software:
 Coocox IDE
 
+
 # PROCEDURE:
 Step 1: Go to start All programs  COIDE.
 Step 2: Give a suitable file name for your project and give the destination folder and then next. Step 3: Go to chip NXP LPC 13XX  LPC1343  Next.
